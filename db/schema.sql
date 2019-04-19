@@ -14,3 +14,5 @@ CREATE TABLE burgers
     burger_name     varchar(200) NOT NULL,
     devoured        BOOLEAN DEFAULT false
 );
+
+
